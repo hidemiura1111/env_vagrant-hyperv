@@ -1,3 +1,11 @@
+# Target
+Build an environment for windows with Vagrant and Hyper-v
+
+# Fail
+Some problems
+- Cannot set IP address
+- Shared directry does not work
+
 # initial set up
 - Install vagrant
 - Plugin for vagrant ~ sharing folder
